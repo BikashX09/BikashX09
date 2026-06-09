@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Terraform+%7C+Docker+%7C+Jenkins;CI%2FCD+Automation+Learner;MCA+Graduate" />
 </p>
 <p align="center">
-<img width="280" height="280" alt="ChatGPT Image Jun 9, 2026, 12_27_18 AM-Photoroom" src="https://github.com/user-attachments/assets/2c227471-f4d7-496e-9c66-edcea32f3829" />
+<img width="280" height="280" alt="ChatGPT Image Jun 9, 2026, 12_27_18 AM-Photoroom.png" src="https://github.com/user-attachments/assets/2c227471-f4d7-496e-9c66-edcea32f3829" />
 </p>
 
 💻 DevOps Engineer | Cloud & Automation Enthusiast
