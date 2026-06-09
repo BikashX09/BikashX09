@@ -3,7 +3,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Terraform+%7C+Docker+%7C+Jenkins;CI%2FCD+Automation+Learner;MCA+Graduate" />
 </p>
-<img width="275" height="275" alt="ChatGPT Image Jun 9, 2026, 12_27_18 AM-Photoroom" src="https://github.com/user-attachments/assets/4772360a-05ab-47d5-b926-601d8a907c97" />
+<p align="center">
+  <img 
+    width="275" 
+    height="275" 
+    alt="ChatGPT Image Jun 9, 2026, 12_27_18 AM-Photoroom"
+    src="https://github.com/user-attachments/assets/4772360a-05ab-47d5-b926-601d8a907c97"
+  />
+</p>
+
 💻 DevOps Engineer | Cloud & Automation Enthusiast
 ☁️ AWS | Terraform | Docker | Jenkins | Kubernetes | Linux
 🚀 Passionate about Cloud Infrastructure, CI/CD & Automation
